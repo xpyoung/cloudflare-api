@@ -10,9 +10,9 @@ import time
 '''
 ################个人账号信息##################
 account_id = 'fe548f61a4663ba50839112add79eea2'#URL中可以找到
-email = 'harvey2732@yahoo.com'#CF账号
+email = 'xxx@gmail.com'#CF账号
 api = '99d4fee5a0d0c7437e7ea854166c7f4797929'#API
-vps = '134.209.14.96'#VPS	
+vps = 'xx.xx.xx.xx'#VPS	
 ##############################################
 while True:
 	domain = input('输入你要添加的域名:')
